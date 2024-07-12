@@ -1,4 +1,4 @@
-<center> <h1> Data Structures and Algorithms <h1> 
+<center> <h1> Data Structures and Algorithms </h1> </center>
  
  
  ### This Repository Contains Code For all Question Practiced for DSA and Also notes
