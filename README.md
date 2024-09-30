@@ -1,7 +1,12 @@
-<center> <h1> Data Structures and Algorithms </h1> </center>
+<center> <h1> MY NOTES </h1> </center>
  
  
- ### This Repository Contains Code For all Question Practiced for DSA and Also notes
+ ### This Repository Contains Notes of the following Topics : 
+ 	* DSA
+  	* Mathematics 
+   	* Machine learning
+    
+
  
 *** 
 
